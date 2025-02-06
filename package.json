@@ -2,11 +2,11 @@
   "name": "restroute",
   "version": "1.0.0",
   "description": "",
-  "main": "routeFetcher.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"no test specified\" && exit 0",
     "build": "echo \"build\"",
-    "start": "node routeFetcher.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
