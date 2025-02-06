@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "route": "/route",
+      "methods": [
+        "get"
+      ],
+      "headers": {
+        "slat": "float",
+        "slon": "float",
+        "elat": "float",
+        "elon": "float"
+      }
+    }
+  ]
+}
